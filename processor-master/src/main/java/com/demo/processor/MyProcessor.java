@@ -21,9 +21,9 @@ import java.util.ArrayList;
 import java.util.Set;
 
 /**
- * @author linghongkang
- * @description:
- * @create: 2018-12-13 15:40
+ *
+ * @Author LXC
+ * @Date 2022/1/28 9:23
  **/
 @SupportedAnnotationTypes(value = "com.demo.processor.*")
 @SupportedSourceVersion(SourceVersion.RELEASE_8)
